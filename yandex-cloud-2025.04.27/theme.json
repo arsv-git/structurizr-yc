@@ -2,22 +2,22 @@
   "name" : "Yandex Cloud",
   "description" : "This theme includes element styles with icons for each of the Yandex Cloud services, based upon the Microsoft Azure icon set (https://yandex.cloud/ru/brandbook).",
   "elements" : [ {
-    "tag" : "Application Load Balancer",
+    "tag" : "Yandex Cloud - Application Load Balancer",
     "stroke" : "#5282ff",
     "color" : "#5282ff",
     "icon" : "Application-Load-Balancer.png"
   },{
-    "tag" : "Compute Cloud",
+    "tag" : "Yandex Cloud - Compute Cloud",
     "stroke" : "#5282ff",
     "color" : "#5282ff",
     "icon" : "Compute-Cloud.png"
   },{
-    "tag" : "Container Registry",
+    "tag" : "Yandex Cloud - Container Registry",
     "stroke" : "#5282ff",
     "color" : "#5282ff",
     "icon" : "Container-Registry.png"
   },{
-    "tag" : "Managed PostgreSQL",
+    "tag" : "Yandex Cloud - Managed PostgreSQL",
     "stroke" : "#5282ff",
     "color" : "#5282ff",
     "icon" : "Managed-PostgreSQL.png"
