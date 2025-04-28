@@ -21,5 +21,55 @@
     "stroke" : "#5282ff",
     "color" : "#5282ff",
     "icon" : "Managed-PostgreSQL.png"
+  },{
+    "tag" : "Yandex Cloud - Cloud DNS",
+    "stroke" : "#5282ff",
+    "color" : "#5282ff",
+    "icon" : "Cloud-DNS.png"
+  },{
+    "tag" : "Yandex Cloud - Audit Trails",
+    "stroke" : "#5282ff",
+    "color" : "#5282ff",
+    "icon" : "Audit-Trails.png"
+  },{
+    "tag" : "Yandex Cloud - Managed Kubernetes",
+    "stroke" : "#5282ff",
+    "color" : "#5282ff",
+    "icon" : "Managed-Kubernetes.png"
+  },{
+    "tag" : "Yandex Cloud - Managed MySQL",
+    "stroke" : "#5282ff",
+    "color" : "#5282ff",
+    "icon" : "Managed-MySQL.png"
+  },{
+    "tag" : "Yandex Cloud - Managed MongoDB",
+    "stroke" : "#5282ff",
+    "color" : "#5282ff",
+    "icon" : "Managed-MongoDB.png"
+  },{
+    "tag" : "Yandex Cloud - Managed OpenSearch",
+    "stroke" : "#5282ff",
+    "color" : "#5282ff",
+    "icon" : "Managed-OpenSearch.png"
+  },{
+    "tag" : "Yandex Cloud - Managed YDB",
+    "stroke" : "#5282ff",
+    "color" : "#5282ff",
+    "icon" : "Managed-YDB.png"
+  },{
+    "tag" : "Yandex Cloud - Message Queue",
+    "stroke" : "#5282ff",
+    "color" : "#5282ff",
+    "icon" : "Message-Queue.png"
+  },{
+    "tag" : "Yandex Cloud - Network Load Balancer",
+    "stroke" : "#5282ff",
+    "color" : "#5282ff",
+    "icon" : "Network-Load-Balancer.png"
+  },{
+    "tag" : "Yandex Cloud - Managed Gitlab",
+    "stroke" : "#5282ff",
+    "color" : "#5282ff",
+    "icon" : "Managed-Gitlab.png"
   }  ]
 }
