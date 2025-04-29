@@ -2,6 +2,11 @@
   "name" : "Yandex Cloud",
   "description" : "This theme includes element styles with icons for each of the Yandex Cloud services, based upon the Microsoft Azure icon set (https://yandex.cloud/ru/brandbook).",
   "elements" : [ {
+    "tag" : "Yandex Cloud",
+    "stroke" : "#5282ff",
+    "color" : "#5282ff",
+    "icon" : "Yandex-Cloud.png"
+  },{
     "tag" : "Yandex Cloud - Application Load Balancer",
     "stroke" : "#5282ff",
     "color" : "#5282ff",
