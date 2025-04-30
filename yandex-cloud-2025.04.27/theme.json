@@ -7,6 +7,11 @@
     "color" : "#5282ff",
     "icon" : "Yandex-Cloud.png"
   },{
+    "tag" : "Yandex Cloud - Resource Manager",
+    "stroke" : "#5282ff",
+    "color" : "#5282ff",
+    "icon" : "Resource-Manager.png"
+  },{
     "tag" : "Yandex Cloud - Application Load Balancer",
     "stroke" : "#5282ff",
     "color" : "#5282ff",
