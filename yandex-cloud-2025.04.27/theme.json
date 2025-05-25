@@ -1,85 +1,426 @@
 {
-  "name" : "Yandex Cloud",
-  "description" : "This theme includes element styles with icons for each of the Yandex Cloud services, based upon the Microsoft Azure icon set (https://yandex.cloud/ru/brandbook).",
-  "elements" : [ {
-    "tag" : "Yandex Cloud",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Yandex-Cloud.png"
-  },{
-    "tag" : "Yandex Cloud - Resource Manager",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Resource-Manager.png"
-  },{
-    "tag" : "Yandex Cloud - Application Load Balancer",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Application-Load-Balancer.png"
-  },{
-    "tag" : "Yandex Cloud - Compute Cloud",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Compute-Cloud.png"
-  },{
-    "tag" : "Yandex Cloud - Container Registry",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Container-Registry.png"
-  },{
-    "tag" : "Yandex Cloud - Managed PostgreSQL",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Managed-PostgreSQL.png"
-  },{
-    "tag" : "Yandex Cloud - Cloud DNS",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Cloud-DNS.png"
-  },{
-    "tag" : "Yandex Cloud - Audit Trails",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Audit-Trails.png"
-  },{
-    "tag" : "Yandex Cloud - Managed Kubernetes",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Managed-Kubernetes.png"
-  },{
-    "tag" : "Yandex Cloud - Managed MySQL",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Managed-MySQL.png"
-  },{
-    "tag" : "Yandex Cloud - Managed MongoDB",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Managed-MongoDB.png"
-  },{
-    "tag" : "Yandex Cloud - Managed OpenSearch",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Managed-OpenSearch.png"
-  },{
-    "tag" : "Yandex Cloud - Managed YDB",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Managed-YDB.png"
-  },{
-    "tag" : "Yandex Cloud - Message Queue",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Message-Queue.png"
-  },{
-    "tag" : "Yandex Cloud - Network Load Balancer",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Network-Load-Balancer.png"
-  },{
-    "tag" : "Yandex Cloud - Managed Gitlab",
-    "stroke" : "#5282ff",
-    "color" : "#5282ff",
-    "icon" : "Managed-Gitlab.png"
-  }  ]
+	"name": "Yandex Cloud",
+    "description": "This theme includes element styles with icons for each of the Yandex Cloud services, based upon the Microsoft Azure icon set (https://yandex.cloud/ru/brandbook).",
+    "elements": [
+        {
+            "color": "#5282ff",
+            "icon": "Yandex-Cloud.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Resource-Manager.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Resource Manager"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Application-Load-Balancer.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Application Load Balancer"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Compute-Cloud.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Compute Cloud"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Container-Registry.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Container Registry"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Managed-PostgreSQL.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed PostgreSQL"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Cloud-DNS.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Cloud DNS"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Audit-Trails.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Audit Trails"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Managed-Kubernetes.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed Kubernetes"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Managed-MySQL.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed MySQL"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Managed-MongoDB.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed MongoDB"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Managed-OpenSearch.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed OpenSearch"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Managed-YDB.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed YDB"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Message-Queue.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Message Queue"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Network-Load-Balancer.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Network Load Balancer"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Managed-Gitlab.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed Gitlab"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Cloud-Functions.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Cloud Functions"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Cloud-Desktop.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Cloud Desktop"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Cloud-Interconnect.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Cloud Interconnect"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Cloud-Logging.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Cloud Logging"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Cloud-Notification-Service.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Cloud Notification Service"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Cloud-Organization.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Cloud Organization"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Cloud-Registry.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Cloud Registry"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "DataLens.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - DataLens"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Data-Processing.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Data Processing"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "AI-Studio.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - AI Studio"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "DataSphere.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - DataSphere"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Data-Streams.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Data Streams"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Data-Transfer.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Data Transfer"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "DDoS-Protection.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - DDoS Protection"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Foundation-Models.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Foundation Models"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Identity-and-Access-Management.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Identity and Access Management"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Instance-Groups.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Instance Groups"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "IoT-Core.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - IoT Core"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Key-Management-Service.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Key Management Service"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Load-Testing.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Load Testing"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Managed-Apache-Airflow.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed Apache Airflow"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Managed-Apache-Kafka.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed Apache Kafka"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Managed-ClickHouse.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed ClickHouse"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Managed-Elasticsearch.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed Elasticsearch"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Managed-Prometheus.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed Prometheus"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Managed-Greenplum.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed Greenplum"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Managed-Trino.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed Trino"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Monitoring.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Monitoring"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Marketplace.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Marketplace"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Object-Storage.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Object Storage"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Security-Deck.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Security Deck"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Serverless-Containers.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Serverless Containers"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Serverless-Integrations.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Serverless Integrations"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "SmartCaptcha.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - SmartCaptcha"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Smart-Web-Security.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Smart Web Security"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "SpeechKit.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - SpeechKit"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "SpeechSense.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - SpeechSense"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Support-Center.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Support Center"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Tracker.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Tracker"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Translate.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Translate"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Virtual-Private-Cloud.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Virtual Private Cloud"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Vision-OCR.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Vision OCR"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Yandex-BareMetal.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Yandex BareMetal"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Postbox.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Postbox"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Yandex-Cloud-Video.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud Video"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Yandex-Code-Assistant.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Yandex Code Assistant"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Yandex-Forms.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Forms"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Yandex-Lockbox.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Yandex Lockbox"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Yandex-MetaData-Hub.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Yandex MetaData Hub"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Yandex-Query.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Yandex Query"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Yandex-Search-API.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Search API"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Yandex-WebSQL.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Yandex WebSQL"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "Yandex-Wiki.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Wiki"
+        },
+        {
+            "color": "#5282ff",
+            "icon": "YandexGPT-API.png",
+            "stroke": "#5282ff",
+            "tag": "YandexGPT API"
+        }
+    ]
 }
