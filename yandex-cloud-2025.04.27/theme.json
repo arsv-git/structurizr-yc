@@ -22,6 +22,12 @@
         },
         {
             "color": "#5282ff",
+            "icon": "API-Gateway.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - API Gateway"
+        },
+        {
+            "color": "#5282ff",
             "icon": "Compute-Cloud.png",
             "stroke": "#5282ff",
             "tag": "Yandex Cloud - Compute Cloud"
