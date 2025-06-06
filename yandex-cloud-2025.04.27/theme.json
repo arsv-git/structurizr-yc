@@ -82,6 +82,12 @@
         },
         {
             "color": "#5282ff",
+            "icon": "Managed-Valkey.png",
+            "stroke": "#5282ff",
+            "tag": "Yandex Cloud - Managed Valkey"
+        },,
+        {
+            "color": "#5282ff",
             "icon": "Managed-YDB.png",
             "stroke": "#5282ff",
             "tag": "Yandex Cloud - Managed YDB"
